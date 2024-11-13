@@ -1,0 +1,7 @@
+C:\Users\Vimal Sasikumar\source\repos\c_sharp_firstclass\c_sharp_firstclass\bin\Debug\c_sharp_firstclass.exe.config
+C:\Users\Vimal Sasikumar\source\repos\c_sharp_firstclass\c_sharp_firstclass\bin\Debug\c_sharp_firstclass.exe
+C:\Users\Vimal Sasikumar\source\repos\c_sharp_firstclass\c_sharp_firstclass\bin\Debug\c_sharp_firstclass.pdb
+C:\Users\Vimal Sasikumar\source\repos\c_sharp_firstclass\c_sharp_firstclass\obj\Debug\c_sharp_firstclass.csproj.AssemblyReference.cache
+C:\Users\Vimal Sasikumar\source\repos\c_sharp_firstclass\c_sharp_firstclass\obj\Debug\c_sharp_firstclass.csproj.CoreCompileInputs.cache
+C:\Users\Vimal Sasikumar\source\repos\c_sharp_firstclass\c_sharp_firstclass\obj\Debug\c_sharp_firstclass.exe
+C:\Users\Vimal Sasikumar\source\repos\c_sharp_firstclass\c_sharp_firstclass\obj\Debug\c_sharp_firstclass.pdb
