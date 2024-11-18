@@ -8,7 +8,7 @@ namespace c_sharp_firstclass
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Mains(string[] args)
         {
             //Console.WriteLine("Welcome to c# programme vimal");
             //int x, y, total;
@@ -43,8 +43,8 @@ namespace c_sharp_firstclass
             //Array
 
             //object
-            Object function = new Object();
-            function.objectMain();
+            //Object function = new Object();
+            //function.objectMain();
             //object
 
 

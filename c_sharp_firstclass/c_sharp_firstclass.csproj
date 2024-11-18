@@ -44,8 +44,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Array.cs" />
+    <Compile Include="Exception.cs" />
     <Compile Include="Function.cs" />
+    <Compile Include="Inheritance.cs" />
     <Compile Include="Object.cs" />
+    <Compile Include="Polymorphism.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
